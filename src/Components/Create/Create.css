@@ -1,0 +1,12 @@
+.input {
+  width: 70%;
+  height: 63px;
+  background: #f8f8f8 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.Label {
+  width: 317px;
+  height: 63px;
+  background: #fff1e1 0% 0% no-repeat padding-box;
+  opacity: 1;
+}

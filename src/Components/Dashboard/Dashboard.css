@@ -1,0 +1,12 @@
+.inRow {
+  display: flex;
+  overflow-x: hidden;
+}
+.leftDiv {
+  flex: 1;
+}
+.rightDiv {
+  flex: 4;
+  min-width: 100px;
+  overflow-x: scroll;
+}
